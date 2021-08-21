@@ -11,3 +11,6 @@ This project deals with the implementing of content-aware image resizing using *
 2. A screen titled *Image Loader* will appear. Upload an image here
 3. Choose to either resize via height or width. Enter the appropriate dimensions. Images can be saved after usage
 
+![Picture1](https://user-images.githubusercontent.com/57147597/130325202-47794aaf-cc70-468e-95b1-2917bd677fc7.png)
+
+*This is the GUI after an image has been resized*
