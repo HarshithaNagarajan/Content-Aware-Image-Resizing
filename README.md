@@ -1,6 +1,6 @@
 # Content-Aware-Image-Resizing
 ## About
-This project deals with the implemention of Content-Aware Image Resizing using **Seam Carving**. Unlike standard resizing techniques such as cropping or scaling that distort the original image, **seam carving** preserves an image’s most important features (such as its aspect ratio).
+This project deals with the implementation of Content-Aware Image Resizing using **Seam Carving**. Unlike standard resizing techniques such as cropping or scaling that distort the original image, **seam carving** preserves an image’s most important features (such as its aspect ratio).
 
 ## Technologies used
 1. **Python3** - For Dynamic Programming
