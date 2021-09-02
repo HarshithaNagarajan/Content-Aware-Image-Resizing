@@ -2,6 +2,11 @@
 ## About
 This project deals with the implementation of Content-Aware Image Resizing using **Seam Carving**. Unlike standard resizing techniques such as cropping or scaling that distort the original image, **seam carving** preserves an image’s most important features (such as its aspect ratio).
 
+## Workflow
+![image](https://user-images.githubusercontent.com/61591312/131795821-612c9a4c-c50b-4c94-a1b4-8236db6d3bf6.png)
+
+***The Algorithm used***
+
 ## Technologies used
 1. **Python3** - For Dynamic Programming
 2. **Tkinter** - For the GUI
@@ -13,4 +18,4 @@ This project deals with the implementation of Content-Aware Image Resizing using
 
 ![Picture1](https://user-images.githubusercontent.com/57147597/130325202-47794aaf-cc70-468e-95b1-2917bd677fc7.png)
 
-*This is the GUI after an image has been resized*
+***This is the GUI after an image has been resized***
