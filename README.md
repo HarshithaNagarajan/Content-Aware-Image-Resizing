@@ -1,6 +1,6 @@
 # Content-Aware-Image-Resizing
 ## About
-This project deals with the implementation of Content-Aware Image Resizing using **Seam Carving**. Unlike standard resizing techniques such as cropping or scaling that distort the original image, **seam carving** preserves an image’s most important features (such as its aspect ratio).
+This project deals with the implementation of Content-Aware Image Resizing using dynamic programming via the technique of **Seam Carving**. Unlike standard resizing techniques such as cropping or scaling that distort the original image, **seam carving** preserves an image’s most important features (such as its aspect ratio).
 
 ## Workflow
 ![image](https://user-images.githubusercontent.com/61591312/131795821-612c9a4c-c50b-4c94-a1b4-8236db6d3bf6.png)
