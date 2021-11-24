@@ -19,3 +19,7 @@ This project deals with the implementation of Content-Aware Image Resizing using
 ![Picture1](https://user-images.githubusercontent.com/57147597/130325202-47794aaf-cc70-468e-95b1-2917bd677fc7.png)
 
 ***This is the GUI after an image has been resized***
+
+## Contributors
+1) [Dipshikha Biswas](https://github.com/dipshikha461)
+2) [Sneha B](https://github.com/Sneha421)
